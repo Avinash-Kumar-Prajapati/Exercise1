@@ -11,7 +11,7 @@
 ***Files:***
 - `All_Customers.csv`
 - `Last_Purchase.csv`
-- 
+
 ***Path:*** `Notebook\Customer Sales\data\output`
 
 ### Solution: `Customer_Sales.ipynb`
@@ -42,9 +42,11 @@
 * ***Daily_sales.csv :*** It stores daily sales data of each department. It contains the Sales gross amount, Sales tax amount of the products sold along with the Sales date.
 
 **Outputs:** 
+
 ***Files:***
 - `Yearly_sales_by_country.csv`
 - `Monthly_profit_by_department.csv`
+
 ***Path:*** `Notebook\Department and  Region Performance\data\output`
 
 **Database:** `data_product_factory`

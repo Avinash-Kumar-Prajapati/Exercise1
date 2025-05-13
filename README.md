@@ -7,9 +7,11 @@
 **Input:** Sales log from 50 Customers are stored in the CSV format in `Notebook\Customer Sales\data\input` path.
 
 **Output:** 
+
 ***Files:***
 - `All_Customers.csv`
 - `Last_Purchase.csv`
+- 
 ***Path:*** `Notebook\Customer Sales\data\output`
 
 ### Solution: `Customer_Sales.ipynb`
